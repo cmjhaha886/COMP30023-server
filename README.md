@@ -7,7 +7,9 @@ Compile the program using
  make
 
 Usage
+
  ./server [port number] [path to web root]
+ 
 Example
 
 ./server 8080 ./test/www/
